@@ -2,7 +2,8 @@ Package: pkgTest
 Version: 1.0
 Title: Just trying
 Description: Something goes here...
-Authors@R: c(person(c("Leon", "Alberto"), role = c("cre", "aut"))
+Authors@R: c(person(c("Kasper", "Daniel"), "Hansen", role = c("cre", "aut"),
+                    email = "kasperdanielhansen@gmail.com"))
 VignetteBuilder: knitr
 License: Artistic-2.0
 URL: https://github.com/albertojleon/pkgTest
